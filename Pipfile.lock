@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "49a228b2938a2a66a1ffc246c12b27cdeadbbe3b5f3e6bd5bde52c552f826540"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "mac-appify": {
+            "hashes": [
+                "sha256:632d9827c0fa97c3806b36ec35009a71873467356a28c2822b0b13979d586190"
+            ],
+            "index": "pypi",
+            "version": "==2019.4.13"
+        }
+    },
+    "develop": {}
+}
