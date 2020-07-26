@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "create mac app from a shell script"
+name = "mac-appify"
+optional = false
+python-versions = "*"
+version = "2020.7.1"
+
+[metadata]
+content-hash = "fdf43f7ea3b3ab863f1b8f7f48ab75f6ed1bece83d90a4eacbd2978aee4e3524"
+lock-version = "1.0"
+python-versions = "^3.8"
+
+[metadata.files]
+mac-appify = [
+    {file = "mac-appify-2020.7.1.tar.gz", hash = "sha256:a4c38fd8fba2e9ecb110e6d61b3e1277cdd0b0bb4b6e03b597261253bae1bfe3"},
+]
