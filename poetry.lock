@@ -1,15 +1,15 @@
 [[package]]
-category = "main"
-description = "create mac app from a shell script"
 name = "mac-appify"
+version = "2020.7.1"
+description = "create mac app from a shell script"
+category = "main"
 optional = false
 python-versions = "*"
-version = "2020.7.1"
 
 [metadata]
-content-hash = "fdf43f7ea3b3ab863f1b8f7f48ab75f6ed1bece83d90a4eacbd2978aee4e3524"
-lock-version = "1.0"
-python-versions = "^3.8"
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "5fec4d4d88573033a967fedd930f5280d04461985f8b4ab668aa8febe75ed07d"
 
 [metadata.files]
 mac-appify = [

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BROWSER="/Applications/Google Chrome Canary.app/Contents/MacOS/Google Chrome Canary"
+BROWSER="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 URL="https://vcard.ameba.jp/"
 EXT=${HOME}/Projects/humi_bookmark/humi_bookmark/
 DATA_DIR_PREF=${HOME}/Projects/mikagami/prof/
@@ -12,7 +12,6 @@ APP_ID=gf4
 "${BROWSER}" \
     --app=${URL} \
     --homepage=${URL} \
-    --single-process \
     --window-position=${POSITION} \
     --window-size=${SIZE} \
     --load-extension=${EXT} \
